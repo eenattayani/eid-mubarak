@@ -1,0 +1,23 @@
+{
+  "name": "ngobar-34-eid-mubarak-1443h",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eenattayani/eid-mubarak.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eenattayani/eid-mubarak/issues"
+  },
+  "homepage": "https://github.com/eenattayani/eid-mubarak#readme",
+  "dependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
